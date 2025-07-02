@@ -14,9 +14,9 @@
 
 1. **Setup Fee** $5  
 2. **Material Cost**
-    - PLA: $0.15/gram  
-    - PLA+: $0.20/gram  
-    - PA6-GF: $0.30/gram  
+    - PLA: $0.20 /gram  
+    - PLA+: $0.25/gram  
+    - PA6-GF: $0.35/gram  
 3. **Print Time** $3/hr  
 4. **Shipping**
     - Local Pickup (Philadelphia): Free  
@@ -55,7 +55,7 @@ If you want something printed:
 
     > If you aren't sure which filament to use, I can help you choose based on your project needs.
   
-3. [**Submit your job through the contact form**](https://alxdolphin.github.io/3d-printing-services)  
+3. [**Submit your job through the contact form**](https://forms.gle/rRdJeFmeFmpHNeWc7)  
    – or email me directly at: [alexreceivesemails@gmail.com](mailto:alexreceivesemails@gmail.com)
 4. I'll reply with a quote, ETA, and payment instructions.
 5. Once confirmed, I'll start your print and update you with photos or tracking as it progresses.
